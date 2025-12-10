@@ -1,0 +1,42 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My List</title>
+</head>
+<body>
+
+<h1>My List</h1>
+
+<ul>
+<li>Fruits
+<ul>
+<li>Bananas</li>
+<li>Apples
+<ul>
+<li>Green Apples</li>
+<li>Red Apples</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vegetables
+<ul>
+<li>Carrot</li>
+<li>Lettuce</li>
+<li>Tomatoes</li>
+</ul>
+</li>
+<li>Meat</li>
+<li>Dessert
+<ul>
+<li>Cake</li>
+</ul>
+</li>
+</ul>
+
+</body>
+</html>
+```
